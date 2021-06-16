@@ -3,3 +3,4 @@ flask-bootstrap
 flask-wtf
 WTForms~=2.3.3
 flask-testing
+blinker
